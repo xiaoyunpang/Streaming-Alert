@@ -1,9 +1,6 @@
-from urllib2 import urlopen
-import urllib2, base64
 from bs4 import BeautifulSoup
 import lxml
 import string
-import csv
 import sys
 import requests
 import requests.packages.urllib3.util.ssl_
